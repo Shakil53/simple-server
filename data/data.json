@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Shakil",
+        "role": "student",
+        "address": "Dhanmondi",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "name": "Anik",
+        "role": "student",
+        "address": "Mirpur",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "name": "Nitul",
+        "role": "student",
+        "address": "Narsigndi",
+        "price": 500
+    }
+]
